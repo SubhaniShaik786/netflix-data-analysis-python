@@ -1,0 +1,46 @@
+
+TASK 5: ADVANCED RATING AND GENRE ANALYSIS
+
+Dataset Overview:
+Total Netflix titles analysed: 8807
+
+RATING ANALYSIS:
+Most common rating: TV-MA
+Number of titles: 3207
+
+Top 5 Ratings:
+rating
+TV-MA    3207
+TV-14    2160
+TV-PG     863
+R         799
+PG-13     490
+
+GENRE ANALYSIS:
+Most common genre: International Movies
+Number of titles: 2752
+
+Top 10 Genres:
+listed_in
+International Movies        2752
+Dramas                      2427
+Comedies                    1674
+International TV Shows      1351
+Documentaries                869
+Action & Adventure           859
+TV Dramas                    763
+Independent Movies           756
+Children & Family Movies     641
+Romantic Movies              616
+
+KEY FINDINGS:
+1. TV-MA is the most common content rating in the dataset.
+2. TV-14 is the second most common rating.
+3. International Movies is the most frequently listed genre.
+4. Dramas and Comedies are also among the leading genres.
+5. Netflix offers content across a wide range of genres and audience ratings.
+
+CONCLUSION:
+The analysis shows that Netflix has a strong presence of mature-rated
+content and a broad variety of movie and television genres.
+These findings can help understand the platform's content distribution.

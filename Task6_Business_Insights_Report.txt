@@ -1,0 +1,102 @@
+
+NETFLIX DATA ANALYSIS
+TASK 6: BUSINESS INSIGHTS REPORT
+
+1. PROJECT OVERVIEW
+The analysis uses 8807 Netflix titles to understand
+content distribution, country representation, genres,
+release-year patterns, and content ratings.
+
+2. CONTENT TYPE INSIGHTS
+type
+Movie      6131
+TV Show    2676
+
+Content Type Percentages:
+type
+Movie      69.62
+TV Show    30.38
+
+Insight:
+Movies represent the larger share of titles in this dataset.
+Netflix could continue evaluating its movie and TV show mix
+based on its content strategy.
+
+3. COUNTRY-WISE INSIGHTS
+Top 5 Countries:
+country
+United States     3690
+India             1046
+United Kingdom     806
+Canada             445
+France             393
+
+Insight:
+The United States has the highest number of country credits,
+followed by India and the United Kingdom.
+Netflix could evaluate opportunities for regional and
+international content expansion.
+
+4. GENRE INSIGHTS
+Top 5 Genres:
+listed_in
+International Movies      2752
+Dramas                    2427
+Comedies                  1674
+International TV Shows    1351
+Documentaries              869
+
+Insight:
+International Movies, Dramas, and Comedies are the most
+frequently listed categories.
+These categories may be useful areas for further content
+portfolio analysis.
+
+5. RELEASE YEAR INSIGHTS
+Top 5 Release Years:
+release_year
+2018    1147
+2017    1032
+2019    1030
+2020     953
+2016     902
+
+Insight:
+2018 has the highest number of titles by release year.
+The dataset shows a concentration of titles released
+between 2016 and 2020 among the leading years.
+
+6. CONTENT RATING INSIGHTS
+Top 5 Ratings:
+rating
+TV-MA    3207
+TV-14    2160
+TV-PG     863
+R         799
+PG-13     490
+
+Insight:
+TV-MA and TV-14 are the two most frequent ratings.
+Netflix should maintain a balanced content portfolio
+that considers different audience age groups.
+
+7. BUSINESS RECOMMENDATIONS
+1. Review the balance between movies and TV shows.
+2. Explore regional content opportunities in countries
+   with growing representation.
+3. Evaluate popular genre categories when planning content.
+4. Maintain content variety across different age ratings.
+5. Monitor release-year patterns alongside newer data
+   before making content investment decisions.
+
+8. CONCLUSION
+This project provides an overview of Netflix's content
+distribution using data analysis and visualization.
+The findings can support further investigation into
+content strategy, regional representation, and genre mix.
+
+Note:
+These findings describe the available dataset. They do not
+measure actual viewer demand, revenue, or content performance.
+Country and genre counts represent individual credits and
+may count a title under multiple categories.
